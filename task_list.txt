@@ -1,6 +1,2 @@
-Configurar variables de entorno para codeship
-Crear .env.codeship
 Modificar rutas en Guest, Public y Auth
-Integrar codeship
 Integrar plantilla
-Integrar Slack con Codeship y GitHub
